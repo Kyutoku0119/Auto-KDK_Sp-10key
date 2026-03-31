@@ -1,0 +1,14 @@
+
+file_format: "1"
+id: sp_10key
+name: sp_10key
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
+siblings:
+  - sp_10key_left
+  - sp_10key_right
